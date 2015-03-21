@@ -1,2 +1,2 @@
 print ('hello,hh')
-print "Hello, from Arthur"
+dsdsdsprint "Hello, from Arthur"
